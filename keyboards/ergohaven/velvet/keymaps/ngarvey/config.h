@@ -1,0 +1,14 @@
+#pragma once
+
+#define FLOW_TAP_TERM 100
+#define CHORDAL_HOLD
+#undef DEBOUNCE
+#define DEBOUNCE 10
+
+#define PERMISSIVE_HOLD
+
+#define USB_SUSPEND_WAKEUP_DELAY 0
+#define LAYER_STATE_8BIT
+#define COMBO_COUNT 12
+
+#define TAPPING_TERM_PER_KEY
